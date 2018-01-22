@@ -1,5 +1,5 @@
 # books-cli
-A simple command line interface application to access and manage an inventory of books. If you are thinking about downloading the code andtesting it, please make sure to have Node.js and MongoDB installed before you run the application in the command line. 
+A simple command line interface application to access and manage an inventory of books. If you are thinking about downloading the code and testing it, just make sure to have Node.js and MongoDB installed before you run the application in the command line. 
  
  <br> To get started, follow these steps, in this order
  
